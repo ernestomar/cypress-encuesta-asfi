@@ -1,0 +1,19 @@
+{
+  "name": "cypress-encuesta-asfi",
+  "version": "1.0.0",
+  "description": "Prueba conceptual de porqué no debe implementarse captcha en clientes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestomar/cypress-encuesta-asfi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ernestomar/cypress-encuesta-asfi/issues"
+  },
+  "homepage": "https://github.com/ernestomar/cypress-encuesta-asfi#readme"
+}
